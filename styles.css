@@ -1,17 +1,24 @@
 body {
     color: #15ff00;
     background: rgb(0, 0, 0);
+    font-family: "Comic Neue", cursive;
 }
 
 header{
     border-bottom:  solid 2px rgb(255, 0, 0);
-    padding: 20px;
+    padding: 15px;
+    padding: 15px;
     font-size: 32px;
     color: aliceblue;
 }
 
 section{
-    background: rgb(154 59 176);
+    background: rgb(46, 1, 41);
     padding-bottom: 80px;
     padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.chamada-texto {
+    margin-right: 5%;
 }
