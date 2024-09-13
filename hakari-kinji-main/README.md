@@ -1,1 +1,0 @@
-# hakari-kinji
